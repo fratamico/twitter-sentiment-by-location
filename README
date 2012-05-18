@@ -1,0 +1,6 @@
+Using the Twitter Search API, analyzes tweets from 20 cities across America to rank the cities by happiness. Aims to determine how closely the ranking found matches up with a poll conducted by Gallup in 2011.
+(http://www.cbsnews.com/8301-505123_162-41142308/the-10-happiest-and-saddest-cities-in-the-us/)
+
+
+Uses the word sentiment list constructed by Arup.
+(http://fnielsen.posterous.com/afinn-a-new-word-list-for-sentiment-analysis)
